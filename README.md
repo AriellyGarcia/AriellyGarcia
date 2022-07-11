@@ -19,4 +19,4 @@
  <a href="https://www.linkedin.com/in/arielly-garcia-467a7a23b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation]
-(https://github.com/ariellygarcia/ariellygarcia/blob/output/github-contribution-grid-snake.svg)
+https://github.com/ariellygarcia/ariellygarcia/blob/output/github-contribution-grid-snake.svg
