@@ -1,7 +1,8 @@
-- 👋 Oii, meu nome é Arielly Garcia e tenho 25 anos.
+- 👋 Meu nome é Arielly Garcia, tenho 25 anos.
 - 👀 Me interesso e estudo Front End.
-- 🌱 Faço parte de uma equipe de Qualidade de Software.
 - 📫 Estudo Análise e Desenvolvimento de Sistemas.
+- 📫 Estudando o desenvolvimento de Testes Automatizados.
+- 🌱 Faço parte de uma equipe de Qualidade de Software.
 
   <a href="https://github.com/ariellygarcia">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ariellygarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
